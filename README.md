@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Static Badge](https://img.shields.io/badge/Tailwind-CSS?style=flat&logo=Tailwind%20CSS&logoColor=%2306B6D4&logoSize=auto&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Next-JS?style=flat&logo=Next.JS&logoColor=hex&logoSize=auto&labelColor=black&color=black)
